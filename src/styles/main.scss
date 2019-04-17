@@ -1,4 +1,6 @@
+@import './_colors';
+
 body{
-    background-color: black;
-    color: aliceblue;
+    background-color: $background;
+    color: $textColor;
 }
